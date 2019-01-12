@@ -1,4 +1,4 @@
-# Workshop de ReactJS
+# Workshop de ReactJS (Iniciantes)
 
 Acesse o conteúdo pelos Pull Resquests abertos 
 
