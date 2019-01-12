@@ -5,6 +5,9 @@ Acesse o conteúdo pelos Pull Resquests abertos
 - ReactJS
 - NextJS
 
+Referências
+
+- [Boas práticas no desenvolvimento de RestAPI](https://blog.philipphauer.de/restful-api-design-best-practices/)
 - [Saiba mais sobre o React](https://reactjs.org/)
 - [Saiba mais sobre o Next.js](https://nextjs.org/)
 - [Tutorial oficial do Next.js](https://nextjs.org/learn/basics/)
