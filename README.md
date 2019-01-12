@@ -5,8 +5,8 @@ Acesse o conteúdo pelos Pull Resquests abertos
 - ReactJS
 - NextJS
 
-Referências
-
+Referências:
+- [Mais sobre o pacote create-next-app](https://open.segment.com/create-next-app/)
 - [Boas práticas no desenvolvimento de RestAPI](https://blog.philipphauer.de/restful-api-design-best-practices/)
 - [Saiba mais sobre o React](https://reactjs.org/)
 - [Saiba mais sobre o Next.js](https://nextjs.org/)
