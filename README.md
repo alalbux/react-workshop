@@ -1,4 +1,4 @@
-# Workshop de ReactJS + Páginas dinamicas com Next.js(Iniciantes)
+# Workshop de ReactJS (Iniciantes)
 
 Acesse o conteúdo pelos Pull Resquests abertos 
 
@@ -6,11 +6,7 @@ Acesse o conteúdo pelos Pull Resquests abertos
 - NextJS
 
 Referências:
-- [Mais sobre o pacote create-next-app](https://open.segment.com/create-next-app/)
-- [Boas práticas no desenvolvimento de RestAPI](https://blog.philipphauer.de/restful-api-design-best-practices/)
 - [Saiba mais sobre o React](https://reactjs.org/)
-- [Saiba mais sobre o Next.js](https://nextjs.org/)
-- [Tutorial oficial do Next.js](https://nextjs.org/learn/basics/)
 - [Tutorial oficial do ReactJS](https://reactjs.org/tutorial/tutorial.html)
 - [Querendo entender melhor de git](https://github.com/k88hudson/git-flight-rules)
 - [Melhorando seu padrão de commits](https://github.com/pagarme/git-style-guide)
