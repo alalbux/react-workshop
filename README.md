@@ -3,7 +3,6 @@
 Acesse o conteúdo pelos Pull Resquests abertos 
 
 - ReactJS
-- NextJS
 
 Referências:
 - [Saiba mais sobre o React](https://reactjs.org/)
